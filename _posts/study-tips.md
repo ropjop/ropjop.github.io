@@ -32,7 +32,6 @@ Lets analyze, here I got:
 - Graphics showing how UK courts are organized, which helped me so much memorise the structure
 - A small test just on this part that I can take once finished!
 
----
 
 ### **Break Study Sessions into Small Chunks**
 
@@ -52,7 +51,6 @@ If you can allocate some dedicated time, a good routine is better than long, inc
 
 This is usually enough to pass comfortably.
 
----
 
 ### **Use Practice Questions Wisely**
 
@@ -69,8 +67,6 @@ Most learners fail because they avoid revising their weaknesses.
 
 Once completed the course, try to do a full mock exam each day: after 3 days in a row with more than 20 correct answers you are ready to book the real exam.
 
----
-
 
 ### **Flashcards are Very Helpful**
 
@@ -84,8 +80,6 @@ You can also create your own deck and save information that you find particularl
 
 The Android app and cards deck are also free.
 
-
----
 
 ### **Tell Someone**
 
@@ -107,7 +101,6 @@ Explaining a topic to a friend or family member helps you:
 
 Teaching is one of the strongest learning techniques.
 
----
 
 ### **Get an Overview of UK History**
 
@@ -125,7 +118,6 @@ To make order in my brain and place events in the right order and place I found 
 Practice tests are helpful, but **they don’t replace the course**.
 The real test may include wording or facts you haven’t seen in the questions.
 
----
 
 ### **2. Ignoring Difficult Chapters**
 
@@ -137,14 +129,12 @@ Lots of test-takers skip:
 
 But these are some of the most frequently tested sections.
 
----
 
 ### **Cramming**
 
 Cramming increases confusion and anxiety.
 Light review the day before is fine—deep study is not.
 
----
 
 ### **Memorising Without Understanding**
 
@@ -159,7 +149,6 @@ In my case, it helped think relatively to one of these major events:
 - The glorious revolution
 - Jacobite rebellion
 
----
 
 ### **Not Checking the Test Format Ahead of Time**
 
