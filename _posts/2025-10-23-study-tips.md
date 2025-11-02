@@ -2,6 +2,7 @@
 layout: post
 title: Study Tips, Practice Methods & Common Mistakes
 subtitle: What to do and what not to do
+tags: ['tips', 'guide', 'test']
 ---
 
 This article contains some tips from mine and many other people personal experience including mistakes you should avoid.
