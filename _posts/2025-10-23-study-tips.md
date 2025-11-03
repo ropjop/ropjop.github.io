@@ -120,7 +120,7 @@ Practice tests are helpful, but **they don’t replace the course**.
 The real test may include wording or facts you haven’t seen in the questions.
 
 
-### **2. Ignoring Difficult Chapters**
+### **Ignoring Difficult Chapters**
 
 Lots of test-takers skip:
 
