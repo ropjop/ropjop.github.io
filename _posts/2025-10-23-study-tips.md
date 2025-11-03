@@ -91,7 +91,7 @@ Some examples ?
 - We learnt about haggis and talked about other traditional British food
 - After learning about the Laurence Olivier Awards, my wife and I used that to decide which musical to watch next
 - It is just fun sharing with friend how genuinely f&ast;&ast;&ast;&ast;d up was the royal family
-- I also found the story of Charles I and [its execution](https://www.youtube.com/watch?v=OPDpj59kkgk&t) very intriguing and worth sharing
+- I also found the story of Charles I and [his execution](https://www.youtube.com/watch?v=OPDpj59kkgk&t) very intriguing and worth sharing
 
 
 Explaining a topic to a friend or family member helps you:
